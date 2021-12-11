@@ -1,2 +1,1 @@
-# c22
-lncjdsvoicjd
+# project-C22-template
